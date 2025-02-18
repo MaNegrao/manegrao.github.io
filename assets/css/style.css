@@ -784,7 +784,7 @@ span.single-timeline-horizontal.spacial-horizontal-line {width: 88px;}
 .hm-foot-icon {
    
 }
-.hm-foot-icon ul li{float:left;}
+.hm-foot-icon ul li{display: inline-block;}
 .hm-foot-icon ul li>a {
     color: #636a82;
     margin-right:18px;
